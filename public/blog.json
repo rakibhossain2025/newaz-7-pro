@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "What is useState and how does it work in React?",
+    "ans": "The useState() is a react hook. this hook can conveniently hold strings, arrays, numbers, objects and much more."
+  },
+  {
+    "id": 2,
+    "name": "What is the purpose of useEffect in React?",
+    "ans": "In React.js, managing side effects such as data fetching, subscriptions, or manually changing the DOM is a common task. The useEffect hook provides a way to perform such side effects in function components."
+  },
+  {
+    "id": 3,
+    "name": "What is a custom hook in React and when should you use one?",
+    "ans": "React custom hooks are reusable functions that a React JS developer can use to add special and unique functionality to the React applications. Usually, if there is a requirement to add a feature, one can install a third-party library and solve the problem. But what if there is no such library with hooks that can be used? This problem is solved by using custom React JS hooks."
+  },
+  {
+    "id": 4,
+    "name": "Difference between controlled and uncontrolled components? Which one is better?",
+    "ans": "Controlled components in React are the components whose state and behaviors are managed by React components using states while the uncontrolled components manage their own state and control their behaviors with the help of DOM. Uncontrolled Components are the components that do not rely on the React state and are handled by the DOM (Document Object Model). So in order to access any value that has been entered we take the help of refs. "
+  },
+  {
+    "id": 5,
+    "name": "Tell us something about useFormStatus() (explore and explain)",
+    "ans": "useFormStatus() is a React hook that simplifies form submission management, particularly in server-rendered apps or with React Server Components. It automatically tracks and manages the form’s status (e.g., submitting, success, error), reducing the need for manual state handling."
+  }
+]
